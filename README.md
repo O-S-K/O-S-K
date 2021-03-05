@@ -1,6 +1,5 @@
 <h1 align="center"> Hi there <img src="https://i.postimg.cc/7L0HtG8H/hello.gif” width="35" height="35" > </h1>
 <div align="center"> 
-  <p align="center"> (Open for Hiring)</p>
 
 <h2 align="center"> Who Am I</h2>
 <p align="center">
