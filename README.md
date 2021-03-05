@@ -29,7 +29,7 @@
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
   <a target="_blank"href="https://github.com/O-S-K"><img src="https://cdn.svgporn.com/logos/github-octocat.svg"width="25" height="25" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href=""><img src="https://cdn.svgporn.com/logos/twitter.svg" width="25" height="25" alt="Twitter" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.youtube.com/channel/UC2pz7__-yrmtW2zEf6sOMtw"><img src="https://cdn.svgporn.com/logos/youtube-icon.svg" width="25" height="25" alt="Twitter" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href=""><img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" width="25" height="25" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://www.facebook.com/xOskx"><img src="https://cdn.svgporn.com/logos/facebook.svg" width="25" height="25" alt="Facebook" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
