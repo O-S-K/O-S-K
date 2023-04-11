@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/androidstudio%20-%669933.svg?&style=for-the-badge&logo=androidstudio&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/visualstudiocode%20-%231572B6.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" />&nbsp;&nbsp;
 </p>
-<p align="center">GameDesginer, C#, C++, Unity, UE4, Cocos2dx, Photoshop, Svn, Git, Github, Bitbucket.</p>
+<p align="center">GameDesginer, C#, C++, Unity, Cocos2dx, Photoshop, Svn, Git, Github, Bitbucket.</p>
 
 <hr>
 
