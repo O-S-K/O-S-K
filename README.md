@@ -1,3 +1,9 @@
-Game Developer
+<h1 align="center">
+Hi there, I am OSK 👋
+</h1>
 
-Portfolio:   Blog:  
+
+## I'm Unity Game Developer ✨
+
+
+> 📫 Reach me with FB: https://www.facebook.com/xOskx/
