@@ -8,5 +8,5 @@ Hi there, I am OSK 👋
 > 📫 Reach me with FB: https://www.facebook.com/xOskx/
 > 
 [![](https://github-readme-stats.vercel.app/api?username=O-S-K&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=O-S-K=10)](https://github.com/O-S-K/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=O-S-K=10)]([https://github.com/O-S-K/github-readme-stat](https://github.com/O-S-K/O-S-K/blob/main/README.md)s)
   
