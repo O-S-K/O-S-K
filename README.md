@@ -8,7 +8,7 @@ Hi there, I am OSK 👋
 > 📫 Reach me with FB: https://www.facebook.com/xOskx/
 > 
 [![](https://github-readme-stats.vercel.app/api?username=O-S-K&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
-[![My WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=baba_s&langs_count=10)](https://github.com/O-S-K/github-readme-stats)
+[![My WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=quyle&langs_count=10)](https://github.com/O-S-K/github-readme-stats)
 
 
   
